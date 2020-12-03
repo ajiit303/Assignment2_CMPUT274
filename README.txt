@@ -3,7 +3,7 @@ ID: 1562557
 CMPUT 274 Fa20
 
 Collaborated with: No-one
-Assignment 2 - Huffman Coding
+Assignment 2: Huffman Coding
 
 Description: This file contains functions that can compress and decompress any file using Huffman Coding. Two seperate libraries, huffman.py and bitio.py contain functions crucial to the execution of this program. This file can be used by compress.py and decompress.py. Compressed files are stored as file_name.huf
 
